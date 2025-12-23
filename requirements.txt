@@ -1,0 +1,12 @@
+fastapi
+uvicorn[standard]
+numpy
+transformers
+sentencepiece
+accelerate
+omegaconf
+soundfile
+librosa
+einops
+omnilingual-asr
+python-multipart
